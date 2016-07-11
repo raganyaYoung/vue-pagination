@@ -5,6 +5,7 @@ A pagination component for vue
 ## Installation
 vue-pagination for using required vuejs and bulma 
 [Vue.js](http://vuejs.org)
+
 [bulma](http://bulma.io)
 
 ## Configuration
