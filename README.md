@@ -1,9 +1,11 @@
 # vue-pagination
 A pagination component for vue
-![vue pagination] (http://github.com/raganyaYoung/vue-pagination/raw/master/screenshots/1.jpg) 
+
+![vue pagination] (https://raw.githubusercontent.com/raganyaYoung/vue-pagination/master/screenshots/1.jpg) 
 
 ## Installation
 vue-pagination for using required vuejs and bulma 
+
 [Vue.js](http://vuejs.org)
 
 [bulma](http://bulma.io)
